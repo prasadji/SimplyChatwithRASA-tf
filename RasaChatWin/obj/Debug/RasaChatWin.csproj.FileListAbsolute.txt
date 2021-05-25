@@ -1,0 +1,13 @@
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\bin\Debug\RasaChatWin.exe.config
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\bin\Debug\RasaChatWin.exe
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\bin\Debug\RasaChatWin.pdb
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.Form1.resources
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.Properties.Resources.resources
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.csproj.GenerateResource.cache
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.csproj.CoreCompileInputs.cache
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.exe
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.pdb
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.csproj.CopyComplete
+C:\Users\devisriprasad\projects\SimplyChatwithRASA-tf\RasaChatWin\obj\Debug\RasaChatWin.csprojAssemblyReference.cache
