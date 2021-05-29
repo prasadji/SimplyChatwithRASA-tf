@@ -12,7 +12,7 @@ namespace RasaChatWin.DataHandler
     {
         private static readonly string baseurl = "http://127.0.0.1:5005/webhooks/rest/webhook";
         private static HttpClient client = new HttpClient();
-        public static async Task<string> GetAll(string user_input)
+        public static async Task<string> PostResponse(string user_input)
         {
             var values = new Dictionary<string, string>
                 {
